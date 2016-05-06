@@ -1,0 +1,73 @@
+{
+    "aliquot": 3, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "D:18", 
+    "commit": "dbef31408009f73df307845cbb17a9bfac48a6ff", 
+    "conditionals": null, 
+    "detectors": {
+        "AX": {
+            "deflection": 165.0, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": 10.0, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": 0.0, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": 320.0, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": 725.0, 
+            "gain": null
+        }
+    }, 
+    "extraction": "", 
+    "identifier": "24776", 
+    "increment": null, 
+    "intensity_scalar": 1.0, 
+    "irradiation": "NM-281", 
+    "irradiation_level": "D", 
+    "irradiation_position": 18, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "jan", 
+    "material": "Sanidine", 
+    "measurement": "", 
+    "project": "Irradiation-NM-281", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Irradiation-NM-281", 
+    "sample": "FC-2", 
+    "spec_sha": "be134c4077286cf9f6a6b1e508b148bf8a89c010", 
+    "timestamp": "2016-01-18T05:56:08", 
+    "tripped_conditional": null, 
+    "username": "", 
+    "uuid": "15a64416-2109-4fdd-8890-4497444cbc47"
+}
