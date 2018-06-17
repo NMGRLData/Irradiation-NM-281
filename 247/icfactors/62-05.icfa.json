@@ -6,9 +6,44 @@
         "value": 1.0
     },
     "CDD": {
-        "error": 0.0015855279335555991,
-        "fit": "Weighted Mean",
+        "error": 0.0027558074902700514,
+        "fit": "Bracketing Interpolate",
         "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-J-3830",
+                "uuid": "852a192f-cf3e-4f39-8af3-38cd2ec2f0ff"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-J-3831",
+                "uuid": "76bfc269-a459-44b7-a29b-70d34cb75b3f"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-J-3832",
+                "uuid": "5223ce6e-97d9-4eaf-90a3-4d96b9bfd176"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-J-3833",
+                "uuid": "81dbacdf-4692-4a8a-9580-b224367ce8be"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-J-3834",
+                "uuid": "622c0738-a606-4a11-8621-aeb87c807ee1"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-J-3835",
+                "uuid": "32675a8e-e93d-4483-8507-f3f12b9ae933"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-J-3836",
+                "uuid": "bda84e4b-88da-48e0-bbf7-c02eb917e903"
+            },
             {
                 "exclude": "ok",
                 "record_id": "a-01-J-3838",
@@ -56,7 +91,7 @@
             }
         ],
         "reviewed": true,
-        "value": 1.0261396168035168
+        "value": 1.02807769002599
     },
     "H1": {
         "error": 1e-20,
