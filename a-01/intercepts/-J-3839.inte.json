@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.000804625236260993,
+        "error": 0.0008046252362610642,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -11,24 +11,24 @@
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 0.21766254137027768
+        "value": 0.21766254137027868
     },
     "Ar37": {
-        "error": 0.0074955216978484784,
+        "error": 0.004784024996781978,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Parabolic",
+        "fit": "Linear",
         "fn": 382,
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": -0.003915159001971163
+        "value": -0.005218660891887239
     },
     "Ar38": {
-        "error": 0.0020375419183895085,
+        "error": 0.002037541918389507,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -42,21 +42,21 @@
         "value": 0.01848120998432811
     },
     "Ar39": {
-        "error": 0.004991203996233726,
+        "error": 0.007808854669696118,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
+        "fit": "Parabolic",
         "fn": 384,
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": -0.18992313316055615
+        "value": -0.19275390616803717
     },
     "Ar40": {
-        "error": 0.011378727620887381,
+        "error": 0.011378727620887617,
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
@@ -67,7 +67,7 @@
         "include_baseline_error": false,
         "n": 400,
         "reviewed": true,
-        "value": 65.61533683528401
+        "value": 65.6153368352841
     },
     "Ar41": {
         "error": 0.10991181108915576,
