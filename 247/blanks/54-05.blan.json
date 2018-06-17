@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.00016820634510253288,
+        "error": 0.00016820634510252873,
         "fit": "Bracketing Interpolate",
         "references": [
             {
@@ -125,10 +125,10 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0077454611914484755
+        "value": 0.007745461191448494
     },
     "Ar37": {
-        "error": 0.007379961983634468,
+        "error": 0.004489760063955266,
         "fit": "Bracketing Interpolate",
         "references": [
             {
@@ -253,10 +253,10 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0207866753017057
+        "value": 0.015873610068517053
     },
     "Ar38": {
-        "error": 0.002026551217685383,
+        "error": 0.002026551217685385,
         "fit": "Bracketing Interpolate",
         "references": [
             {
@@ -381,10 +381,10 @@
             }
         ],
         "reviewed": true,
-        "value": -0.0027004790481246054
+        "value": -0.0027004790481246297
     },
     "Ar39": {
-        "error": 0.004770330186586543,
+        "error": 0.0076390901169469325,
         "fit": "Bracketing Interpolate",
         "references": [
             {
@@ -509,10 +509,10 @@
             }
         ],
         "reviewed": true,
-        "value": 0.00523556574939321
+        "value": 0.006767994149949854
     },
     "Ar40": {
-        "error": 0.006696674305511576,
+        "error": 0.00669667430551148,
         "fit": "Bracketing Interpolate",
         "references": [
             {
@@ -637,7 +637,7 @@
             }
         ],
         "reviewed": true,
-        "value": 2.04515171747558
+        "value": 2.0451517174756
     },
     "Ar41": {
         "error": 0.011230659462966,
